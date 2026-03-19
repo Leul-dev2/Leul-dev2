@@ -1,31 +1,32 @@
-<!-- ===== Header Animation ===== -->
+<!-- ===== DOOM LEVEL HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Leul%20Getachew%20🚀&font=Chewy"/>
 </p>
 
-<!-- ===== Social Links ===== -->
+<!-- ===== SOCIAL LINKS NEON ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"/>
   </a>
   <a href="https://twitter.com/YOUR-TWITTER/">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg"/>
   </a>
   <a href="https://www.instagram.com/YOUR-IG/">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"/>
   </a>
   <a href="https://yourportfolio.com/">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg"/>
+    <img height="50" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg"/>
   </a>
 </p>
 
 ---
 
-<!-- ===== About Me Section ===== -->
+<!-- ===== ABOUT ME CODE-STYLE ===== -->
 ```yaml
 name: Leul Getachew
 pronouns: he/him
-current_work: Learning and building full-stack projects
-learning: Flutter, React.js, MERN stack
-looking_to_collaborate_on: Open-source and creative projects
-fun_fact: Loves coding, anime & gaming
+current_work: Full-stack dev, Flutter & MERN stack
+learning: AI, Advanced Web Dev, Flutter Animations
+passion: Gaming, Anime, Coding Challenges
+goal: Build jaw-dropping apps & portfolio
+fun_fact: Loves neon aesthetics 🌌
