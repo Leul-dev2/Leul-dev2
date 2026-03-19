@@ -1,27 +1,31 @@
-# 🚀 Transforming Ideas into Digital Reality
+<!-- ===== Header Animation ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-I’m a **Full-Stack Engineer** specializing in the **MERN Stack** and **Flutter**. I don't just write code; I build scalable, user-centric solutions that perform at scale.
+<!-- ===== Social Links ===== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"/>
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR-IG/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"/>
+  </a>
+  <a href="https://yourportfolio.com/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg"/>
+  </a>
+</p>
 
 ---
 
-### ⚡ Technical Arsenal
-
-* **Mobile:** Flutter | Dart | Bloc | GetX | Firebase
-* **Web:** React.js | Next.js | Tailwind CSS | Redux
-* **Backend:** Node.js | Express.js | JWT | Socket.io
-* **Database:** MongoDB | PostgreSQL | Redis
-* **DevOps:** Git | Docker | AWS | CI/CD
-
----
-
-### 🛠️ What I Bring to the Table
-- **End-to-End Development:** From initial UI design in Figma to cloud deployment.
-- **Performance First:** Writing optimized code for high-speed web and mobile apps.
-- **Clean Architecture:** Scalable, maintainable, and well-documented codebases.
-
----
-
-### 🤝 Let's Build Something Great
-I'm always open to collaborating on innovative projects or discussing the latest in tech. 
-
-[LinkedIn](https://www.linkedin.com/in/leul-seyoum/) • [Portfolio](https://leul-dev.netlify.app/) • [Email](omegaseyoum@gmail.com)
+<!-- ===== About Me Section ===== -->
+```yaml
+name: Leul Getachew
+pronouns: he/him
+current_work: Learning and building full-stack projects
+learning: Flutter, React.js, MERN stack
+looking_to_collaborate_on: Open-source and creative projects
+fun_fact: Loves coding, anime & gaming
