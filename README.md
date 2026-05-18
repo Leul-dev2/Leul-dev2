@@ -7,12 +7,10 @@
 
 <!-- ═══════════════════════════ MAIN HEADER ════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,25:0a0a1a,50:001a33,75:003366,100:e94560&height=220&section=header&text=LEUL%20SEYOUM&fontSize=90&fontColor=ffffff&fontAlignY=50&desc=◈%20Architect%20of%20the%20Digital%20Future%20◈&descSize=18&descColor=00d4ff&descAlignY=72&animation=blinking&stroke=00d4ff&strokeWidth=1.5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:001a33,70:0f3460,100:e94560&height=250&section=header&text=LEUL%20SEYOUM&fontSize=75&fontColor=ffffff&fontAlignY=42&desc=%E2%97%88%20Architect%20of%20the%20Digital%20Future%20%E2%97%88&descSize=19&descColor=00d4ff&descAlignY=62&animation=fadeIn"/>
 
 <!-- ═══════════════════════════ TYPING SVG ════════════════════════════ -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=800&lines=_+Initializing+Leul.exe+...+SUCCESS+✓;_+Stack%3A+Flutter+%7C+MERN+%7C+Laravel+%7C+React;_+Location%3A+Addis+Ababa%2C+Ethiopia+🇪🇹;_+Mission%3A+Build+apps+that+make+people+say+WOW;_+Status%3A+Leveling+up+every+single+day+⚡;_+Warning%3A+May+cause+inspiration+overload+⚠️" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=750&lines=Initializing+Leul.exe+...+SUCCESS;Stack%3A+Flutter+%7C+MERN+%7C+Laravel+%7C+React;Location%3A+Addis+Ababa%2C+Ethiopia;Mission%3A+Build+apps+that+make+people+say+WOW;Status%3A+Leveling+up+every+single+day;Open+to+Work+%7C+Let%27s+Build+Together" alt="Typing SVG" />
 
 <br/>
 
@@ -371,8 +369,11 @@ export default LEUL;
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Leul-dev2/Leul-dev2/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Leul-dev2/Leul-dev2/output/github-contribution-grid-snake-dark.svg"/>
+    src="https://raw.githubusercontent.com/Leul-dev2/Leul-dev2/output/github-contribution-grid-snake-dark.svg"
+    onerror="this.src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg'"/>
 </picture>
+
+> ⚡ *Run the **🐍 Generate Snake Animation** workflow in Actions to activate your personal snake!*
 
 </div>
 
