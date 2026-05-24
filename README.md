@@ -23,28 +23,28 @@
 
 ### `$ cat about_leul.md`
 
-```
-Name    ─  Leul Seyoum
-From    ─  Addis Ababa, Ethiopia
-Role    ─  Full-Stack Developer
-Class   ─  Builder · Dreamer · Grinder
+```text
+Name    -  Leul Seyoum
+From    -  Addis Ababa, Ethiopia
+Role    -  Full-Stack Developer
+Class   -  Builder . Dreamer . Grinder
 
 Currently building:
-  ↳ University Admission Portal (MERN)
-  ↳ dev-streak auto-commit engine
-  ↳ Terminal portfolio (Flutter Web)
+  -> University Admission Portal (MERN)
+  -> dev-streak auto-commit engine
+  -> Terminal portfolio (Flutter Web)
 
 Learning right now:
-  ↳ Flutter BLoC + Riverpod
-  ↳ Laravel Service Container
-  ↳ System Design & Architecture
+  -> Flutter BLoC + Riverpod
+  -> Laravel Service Container
+  -> System Design & Architecture
 
 Off the keyboard:
-  ↳ Free Fire on PC via BlueStacks
-  ↳ Anime — always watching
-  ↳ Coffee — fuel of champions
+  -> Free Fire on PC via BlueStacks
+  -> Anime -- always watching
+  -> Coffee -- fuel of champions
 
-Goal:  Jr Dev → Sr Dev → CTO
+Goal:  Jr Dev -> Sr Dev -> CTO
 Motto: "Ship it. Improve it. Repeat."
 ```
 
@@ -71,7 +71,7 @@ Motto: "Ship it. Improve it. Repeat."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leul-seyoum)
 [![Portfolio](https://img.shields.io/badge/Portfolio-leul--dev.netlify.app-e94560?style=for-the-badge&logo=netlify&logoColor=white)](https://leul-dev.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omegaseyoum@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-IG)
 
@@ -135,22 +135,24 @@ Motto: "Ship it. Improve it. Repeat."
 <td width="50%" valign="top">
 
 **🎓 University Admission Portal**
-```
-Stack  → MongoDB · Express · React · Node
-Lang   → TypeScript
-Status → Active — UI overhaul in progress
-Goal   → Production app for Ethiopian unis
+
+```text
+Stack  -> MongoDB . Express . React . Node
+Lang   -> TypeScript
+Status -> Active — UI overhaul in progress
+Goal   -> Production app for Ethiopian unis
 ```
 
 </td>
 <td width="50%" valign="top">
 
 **🤖 dev-streak — Auto Commit Engine**
-```
-Stack  → GitHub Actions · Node.js · YAML
-Status → LIVE — runs daily at 09:00 UTC
-Goal   → Contribution graph always green
-Link   → github.com/Leul-dev2/dev-streak
+
+```text
+Stack  -> GitHub Actions . Node.js . YAML
+Status -> LIVE — runs daily at 09:00 UTC
+Goal   -> Contribution graph always green
+Link   -> github.com/Leul-dev2/dev-streak
 ```
 
 </td>
@@ -159,22 +161,24 @@ Link   → github.com/Leul-dev2/dev-streak
 <td width="50%" valign="top">
 
 **🌐 Portfolio v2 — Terminal Architect**
-```
-Stack  → Flutter Web · Dart · Animations
-Status → Planning — Awwwards target
-Style  → Dark terminal · Glassmorphism
-ETA    → When it is perfect
+
+```text
+Stack  -> Flutter Web . Dart . Animations
+Status -> Planning — Awwwards target
+Style  -> Dark terminal . Glassmorphism
+ETA    -> When it is perfect
 ```
 
 </td>
 <td width="50%" valign="top">
 
-**[CLASSIFIED PROJECT]**
-```
-Stack  → REDACTED
-Status → Coming soon...
-Hint   → It is going to be BIG
-ETA    → Stay tuned
+**✈️ AI Travel Planner App**
+
+```text
+Stack  -> Flutter . Dart . Gemini API
+Status -> In development
+Goal   -> AI-powered trip planning for Africa
+ETA    -> Coming soon
 ```
 
 </td>
@@ -262,7 +266,7 @@ Open Source        ████░░░░░░░░░░░  25%
 <td align="center" width="25%">🌙<br/><sub><b>Best code written</b><br/>after midnight</sub></td>
 <td align="center" width="25%">🎮<br/><sub><b>Free Fire reflexes</b><br/>= faster debugging</sub></td>
 <td align="center" width="25%">🇪🇹<br/><sub><b>Ethiopian dev</b><br/>thinking globally</sub></td>
-<td align="center" width="25%">☕<br/><sub><b>Coffee consumed</b><br/>= bugs fixed × 10</sub></td>
+<td align="center" width="25%">☕<br/><sub><b>Coffee consumed</b><br/>= bugs fixed x 10</sub></td>
 </tr>
 <tr>
 <td align="center" width="25%">🌸<br/><sub><b>Anime arc</b><br/>beats tutorial arc</sub></td>
